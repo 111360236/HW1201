@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\alice\desktop\ff\hw1201\6.33\source\source.cpp(37): warning C4018: '<': signed/unsigned 不相符
+c:\users\alice\desktop\ff\hw1201\6.33\source\source.cpp(39): warning C4018: '<=': signed/unsigned 不相符
+c:\users\alice\desktop\ff\hw1201\6.33\source\source.cpp(44): warning C4018: '<': signed/unsigned 不相符
+  6.33.vcxproj -> C:\Users\alice\Desktop\ff\HW1201\6.33\6.33\Debug\6.33.exe
